@@ -33,7 +33,7 @@ Neemias Martins (follow me on [Linkedin](https://www.linkedin.com/in/neemias-mar
 ```
 The MIT License (MIT)
 
-Copyright (c) 2021 Roque Buarque Junior
+Copyright (c) 2023 Neemias Daniel Diogo Martins
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
